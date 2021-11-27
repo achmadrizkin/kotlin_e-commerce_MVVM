@@ -87,3 +87,7 @@ please create, and deploy to your own server
   Add/Edit Product  Screen               |   My Product  Screen        |  Home Screen 1
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://user-images.githubusercontent.com/75843138/143671734-6e588836-1c8a-4716-9e00-1b008c61efb1.png"> |<img src="https://user-images.githubusercontent.com/75843138/143671816-55d94b5b-306c-4f0f-be45-edfc1dbc843c.png"> |<img src="https://user-images.githubusercontent.com/75843138/143671914-e9aded43-1063-4454-80d5-6f13fb6ef2b3.png">
+
+  Home Screen 2               |   Product Details  Screen        |  Midtrans
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/75843138/143671972-f511d313-40e9-4ad4-a512-d640d2296471.png"> |<img src="https://user-images.githubusercontent.com/75843138/143672021-404eb90d-36ed-4048-8927-399d10ef6a65.png"> |<img src="https://user-images.githubusercontent.com/75843138/143672067-8c018c60-1d5a-44fc-a53d-119468269d18.png">
