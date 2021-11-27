@@ -73,4 +73,9 @@ please create, and deploy to your own server
 ## Previrew App
   Splash Screen                 |   On Boarding Screen 1       |  On Boarding Screen 2
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/75843138/143670715-d5de2b24-e34d-4dab-9d7d-71a3736c0a0f.png" width="850" height="700"> |<img src="https://user-images.githubusercontent.com/75843138/143670872-59bb44fb-d3de-43ec-ac5a-520495d9cc48.png" width="850" height="700"> |<img src="https://user-images.githubusercontent.com/75843138/143670977-66dd0b00-a27c-4bb6-9e85-311970cd9645.png" width="850" height="700">
+<img src="https://user-images.githubusercontent.com/75843138/143670715-d5de2b24-e34d-4dab-9d7d-71a3736c0a0f.png"> |<img src="https://user-images.githubusercontent.com/75843138/143670872-59bb44fb-d3de-43ec-ac5a-520495d9cc48.png"> |<img src="https://user-images.githubusercontent.com/75843138/143670977-66dd0b00-a27c-4bb6-9e85-311970cd9645.png">
+
+
+  On Boarding Screen 3                 |   Login Screen        |  On Boarding Screen 2
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/75843138/143671040-e8429426-65d0-4ca9-b31f-9f1399a0b381.png"> |<img src="https://user-images.githubusercontent.com/75843138/143671069-46fc4861-e695-43a1-aa05-7728effa1583.png"> |<img src="https://user-images.githubusercontent.com/75843138/143670977-66dd0b00-a27c-4bb6-9e85-311970cd9645.png">
