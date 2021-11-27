@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:scrollbars="none"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".view.bottom_nav.home.HomeFragment">
+
+
+    <FrameLayout
+        android:id="@+id/frameLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/ivBanner"
+            android:background="@drawable/rounded_image"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/banner1"
+            android:outlineProvider="background"
+            android:scaleType="centerCrop"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"/>
+
+        <TextView
+            android:layout_marginTop="170dp"
+            android:layout_marginStart="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="All Products"
+            android:textSize="24sp"
+            android:textColor="@color/black"
+            android:fontFamily="@font/poppins_bold"
+            />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="230dp"
+            android:orientation="horizontal"
+            android:layout_marginTop="210dp"
+            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager" />
+
+        <TextView
+            android:layout_marginTop="430dp"
+            android:layout_marginStart="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Book Products"
+            android:textSize="24sp"
+            android:textColor="@color/black"
+            android:fontFamily="@font/poppins_bold"
+            />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerView2"
+            android:layout_width="match_parent"
+            android:layout_height="230dp"
+            android:orientation="horizontal"
+            android:layout_marginTop="480dp"
+            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager" />
+
+        <TextView
+            android:layout_marginTop="700dp"
+            android:layout_marginStart="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Laptop Products"
+            android:textSize="24sp"
+            android:textColor="@color/black"
+            android:fontFamily="@font/poppins_bold"
+            />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerView3"
+            android:layout_width="match_parent"
+            android:layout_height="230dp"
+            android:orientation="horizontal"
+            android:layout_marginTop="750dp"
+            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager" />
+
+        <TextView
+            android:layout_marginTop="970dp"
+            android:layout_marginStart="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hoodie Products"
+            android:textSize="24sp"
+            android:textColor="@color/black"
+            android:fontFamily="@font/poppins_bold"
+            />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerView4"
+            android:layout_width="match_parent"
+            android:layout_height="230dp"
+            android:orientation="horizontal"
+            android:layout_marginTop="1020dp"
+            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager" />
+
+    </FrameLayout>
+
+</ScrollView>
