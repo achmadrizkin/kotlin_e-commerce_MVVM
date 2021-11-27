@@ -91,3 +91,7 @@ please create, and deploy to your own server
   Home Screen 2               |   Product Details  Screen        |  Midtrans
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://user-images.githubusercontent.com/75843138/143671972-f511d313-40e9-4ad4-a512-d640d2296471.png"> |<img src="https://user-images.githubusercontent.com/75843138/143672021-404eb90d-36ed-4048-8927-399d10ef6a65.png"> |<img src="https://user-images.githubusercontent.com/75843138/143672067-8c018c60-1d5a-44fc-a53d-119468269d18.png">
+
+  Razorpay               |   Transaction Screen        |  User Profile (if name, and image null)
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/75843138/143672116-47c01c61-5fe5-4127-97d2-e3dd508c6fee.png"> |<img src="https://user-images.githubusercontent.com/75843138/143672194-a442c041-ea72-409b-8aa7-a1e949672c2a.png"> |<img src="https://user-images.githubusercontent.com/75843138/143672224-cce20d01-865b-4dcd-be5e-59fbe37bb756.png">
