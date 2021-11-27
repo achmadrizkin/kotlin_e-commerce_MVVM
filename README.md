@@ -4,6 +4,7 @@ Make E-Commerce using Kotlin, and for backend i use Golang, and PHP
 ## Feature
 - MVVM
 - Retrofit2
+- 15+ Screen
 - Payment Gateway (Razorpay & Midtrans)
 - Firebase Auth (Sign in with email & Google Sign in)
 - Live Data
