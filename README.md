@@ -14,6 +14,19 @@ Make E-Commerce using Kotlin, and for backend i use Golang, and PHP
 - CRUD API
 - Splash Screen, OnBoarding Screen, etc ... 
 
+## Please change this, if not it will ERROR
+use your own apiKey
+
+      object Constant {
+          const val MERCHAT_ID_MIDTRANS = "YOUR_API_KEY"
+          const val CLIENT_KEY_MIDTRANS = "SB-Mid-client-YOUR_API_KEY"
+          const val SERVER_KEY_MIDTRANS = "SB-Mid-server-YOUR_API_KEY"
+          const val BASE_URL_MIDTRANS = "PHP API SERVER"
+
+          const val KEY_ID_RAZORAPP = "rzp_test_YOUR_API_KEY";
+          const val KEY_SECRET_RAZORAPP = "YOUR_API_KEY";
+      }
+
 ## Golang API
 please check this https://github.com/achmadrizkin/golang_e-commerce_API
 
