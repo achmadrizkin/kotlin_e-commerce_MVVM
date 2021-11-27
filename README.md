@@ -83,3 +83,7 @@ please create, and deploy to your own server
   Empty My Product  Screen               |   Profile Screen        |  Product details 1
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://user-images.githubusercontent.com/75843138/143671369-53f7652b-cf08-4c59-8057-b5946a8496c6.png"> |<img src="https://user-images.githubusercontent.com/75843138/143671417-cc30828e-557f-4f98-bb4a-240d3b6e18ac.png"> |<img src="https://user-images.githubusercontent.com/75843138/143671555-9074bc41-e195-4947-8385-0c0c12dd586e.png">
+
+  Add/Edit Product  Screen               |   My Product  Screen        |  Home Screen 1
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/75843138/143671734-6e588836-1c8a-4716-9e00-1b008c61efb1.png"> |<img src="https://user-images.githubusercontent.com/75843138/143671816-55d94b5b-306c-4f0f-be45-edfc1dbc843c.png"> |<img src="https://user-images.githubusercontent.com/75843138/143671914-e9aded43-1063-4454-80d5-6f13fb6ef2b3.png">
